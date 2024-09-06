@@ -5,7 +5,7 @@ Project Title :
 java 언어를 이용한 Pandas 모듈 포팅
 
 Content :
-Pandas의 'DataFream'과 "Series'에 해당하는 테이블과 열을 직접 설계 및 구현하는 개인 프로젝트 진행
+Pandas의 'DataFrame'과 "Series'에 해당하는 테이블과 열을 직접 설계 및 구현하는 개인 프로젝트 진행
 
 Skill : 
 데이터를 정렬하는 알고리즘을 수동으로 구현 및 적용.
